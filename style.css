@@ -2,3 +2,16 @@ body {
     font-family: 'Roboto', sans-serif;
     background-color: azure;
 }
+
+.cover {
+    width: 150px;
+    height: 225px;
+    /* width: 8em;
+    height: 12em; */
+}
+
+.cover1 {
+    width: 12em;
+    height: 18em;
+    border: 1px solid white;
+}
