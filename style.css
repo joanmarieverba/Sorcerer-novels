@@ -19,3 +19,7 @@ body {
 .indent {
     text-indent: 2em;
 }
+
+.lmargin {
+    margin-left: 5vw;
+}
