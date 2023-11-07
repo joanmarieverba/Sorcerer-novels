@@ -15,3 +15,7 @@ body {
     height: 18em;
     border: 1px solid white;
 }
+
+.indent {
+    text-indent: 2em;
+}
