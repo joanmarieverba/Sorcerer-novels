@@ -24,6 +24,13 @@ body {
     margin-left: 5vw;
 }
 
+.square {
+    width: 150px;
+    height: 150px;
+}
+
+
+
 .tmargin {
     margin-top: 5px;
 }
