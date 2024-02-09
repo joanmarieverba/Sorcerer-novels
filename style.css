@@ -24,6 +24,10 @@ body {
     margin-left: 5vw;
 }
 
+.lspace3 {
+    padding-left: 4vw;
+}
+
 .square {
     width: 150px;
     height: 150px;
